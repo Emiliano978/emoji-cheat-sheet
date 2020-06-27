@@ -1,4 +1,4 @@
-# emoji-cheat-sheet
+# emoji-cheat-sheet/
 
 [![build](https://travis-ci.org/ikatyang/emoji-cheat-sheet.svg?branch=master)](https://travis-ci.org/ikatyang/emoji-cheat-sheet)
 
